@@ -1,0 +1,5 @@
+D:\sem_c#\Project\Project\bin\Debug\Project.exe.config
+D:\sem_c#\Project\Project\bin\Debug\Project.exe
+D:\sem_c#\Project\Project\bin\Debug\Project.pdb
+D:\sem_c#\Project\Project\obj\Debug\Project.exe
+D:\sem_c#\Project\Project\obj\Debug\Project.pdb
